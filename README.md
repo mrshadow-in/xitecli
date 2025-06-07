@@ -1,6 +1,6 @@
 # xitecli
 
-[![XiteNodes Logo](https://xitenodes.com/assets/logo.png)](https://xitenodes.com)  
+[![XiteNodes Logo](https://billing.xitenodes.com/assets/img/logo.png)](https://xitenodes.com)  
 **XiteNodes - NETPOOL TECHNOLOGIES PRIVATE LIMITED**
 
 ---
