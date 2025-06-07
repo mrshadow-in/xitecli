@@ -144,9 +144,5 @@ For support or inquiries, contact us at:
 **XiteNodes - NETPOOL TECHNOLOGIES PRIVATE LIMITED**
 Building India’s future cloud infrastructure.
 
-```
-
 ---
 
-Feel free to ask if you want me to generate a `.md` file for download or need help with other docs!
-```
